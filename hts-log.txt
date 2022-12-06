@@ -1,15 +1,30 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Dec 2022 11:50:22 at https://hdhub4u.tools/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*hdhub4u.tools* +*/*wp-content*/* +*/*wp-includes*/* +*/*slider*/*
-(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hdhub4u.tools/ -O1 "C:\My Web Sites\hdhub4u" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*hdhub4u.tools* +*/*wp-content*/* +*/*wp-includes*/* +*/*slider*/* )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-11:55:50	Error: 	"Not Found" (404) at link https://hdhub4u.tools/wp-content/uploads/2018/01/down-links.png (from https://hdhub4u.tools/)
-11:56:03	Warning: 	Retry after error -4 (No data (connection closed)) at link intermediarymarkswe.com/c7/97/1d/c7971d1b62da6885d5524831f9ab8b61.js (from https://hdhub4u.tools/)
-12:01:24	Warning: 	Retry after error -4 (Connect Error) at link intermediarymarkswe.com/c7/97/1d/c7971d1b62da6885d5524831f9ab8b61.js (from https://hdhub4u.tools/)
-12:01:24	Error: 	"Connect Error" (-4) after 2 retries at link intermediarymarkswe.com/c7/97/1d/c7971d1b62da6885d5524831f9ab8b61.js (from https://hdhub4u.tools/)
-
-HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 2 seconds : 70 links scanned, 65 files written (6630083 bytes overall), 9 files updated [229661 bytes received at 346 bytes/sec], 741574 bytes transferred using HTTP compression in 10 files, ratio 24%, 1.4 requests per connection
-(2 errors, 2 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Dec 2022 11:50:22 at https://hdhub4u.tools/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*hdhub4u.tools* +*/*wp-content*/* +*/*wp-includes*/* +*/*slider*/*
+
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hdhub4u.tools/ -O1 "C:\My Web Sites\hdhub4u" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*hdhub4u.tools* +*/*wp-content*/* +*/*wp-includes*/* +*/*slider*/* )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain senhttps://cypherhack99.github.io/hdhub4u/hdhub4u.tools/wp-content/uploads/
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+11:55:50	Error: 	"Not Found" (404) at link https://hdhub4u.tools/wp-content/uploads/2018/01/down-links.png (from https://hdhub4u.tools/)
+
+11:56:03	Warning: 	Retry after error -4 (No data (connection closed)) at link intermediarymarkswe.com/c7/97/1d/c7971d1b62da6885d5524831f9ab8b61.js (from https://hdhub4u.tools/)
+
+12:01:24	Warning: 	Retry after error -4 (Connect Error) at link intermediarymarkswe.com/c7/97/1d/c7971d1b62da6885d5524831f9ab8b61.js (from https://hdhub4u.tools/)
+
+12:01:24	Error: 	"Connect Error" (-4) after 2 retries at link intermediarymarkswe.com/c7/97/1d/c7971d1b62da6885d5524831f9ab8b61.js (from https://hdhub4u.tools/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 2 seconds : 70 links scanned, 65 files written (6630083 bytes overall), 9 files updated [229661 bytes received at 346 bytes/sec], 741574 bytes transferred using HTTP compression in 10 files, ratio 24%, 1.4 requests per connection
+
+(2 errors, 2 warnings, 0 messages)
+
